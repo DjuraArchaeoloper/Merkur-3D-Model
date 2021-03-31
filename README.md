@@ -1,4 +1,6 @@
-# 3D-model-representation-using-3D-HOP
+# Merkur 3D Model
+
+3D model representation using 3D HOP software.
 
 I created the model using photogrammetry, Agisoft Photoscan and for post-processing Blender. The artefact is from the Belgrade city Museum and Singidunum 3D project.
 
