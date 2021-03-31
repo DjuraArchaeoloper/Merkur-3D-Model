@@ -2,7 +2,7 @@
 
 I created the model using photogrammetry, Agisoft Photoscan and for post-processing Blender. The artefact is from the Belgrade city Museum and Singidunum 3D project.
 
-You can view the `HTML` file if you add ` --allow-file-access-from-files` to you Google Chrome shortcut in the `Properties - Shortcut - Target` section because it is not connected to a server.
+You can view the `HTML` file if you open https://djuraarchaeoloper.github.io/Merkur---3D-Model/.
 
 This is just for presentation purposes and should not be used otherwise.
 
